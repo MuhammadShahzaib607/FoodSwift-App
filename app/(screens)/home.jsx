@@ -97,7 +97,8 @@ backgroundColor: "white",
     section_1: {
 flexDirection: "row",
 justifyContent: "space-between",
-alignItems: "center"
+alignItems: "center",
+marginTop: 20
     },
     loginBtn: {
 backgroundColor: "#f35144",

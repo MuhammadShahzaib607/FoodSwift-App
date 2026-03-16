@@ -24,6 +24,12 @@ export default function RootLayout() {
         <Stack.Screen name="(screens)/signup" options={{
           headerShown: false,
           }} />
+        <Stack.Screen name="(screens)/confirmOrder" options={{
+          headerShown: false,
+          }} />
+        <Stack.Screen name="(screens)/checkout" options={{
+          headerShown: false,
+          }} />
         <Stack.Screen name="(screens)/order" options={{
           headerShown: false,
           animation: "slide_from_bottom"
